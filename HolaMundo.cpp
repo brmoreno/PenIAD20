@@ -1,12 +1,10 @@
-#include <iostream>
-#include <string>
+//Mi primer programa
 
+#include <iostream>
 
 using namespace std;
-int main() 
-{
-  string nombre;
-  
-  cout << str1;
-  return 0;
+
+int main(){
+    cout<<"Hola Mundo!";
+    return 0;
 }
